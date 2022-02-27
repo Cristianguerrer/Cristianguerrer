@@ -7,7 +7,7 @@ My name is Cristian, I'm from Colombia and I'm an DevOps - SystemAdmin.
 ## Skills
 
 * Using Kubernetes.
-* AWS, Docker, all the cloud stuff.
+* AWS, Docker, windows, linux all the cloud stuff.
 * Critical thinking, decision-making and problem solving skills
 
 ## Contact
