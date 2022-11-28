@@ -7,9 +7,9 @@ My name is Cristian, I'm from Colombia and I'm an DevOps - SystemAdmin.
 ## Skills
 
 * Using Kubernetes.
-* AWS, Docker, windows, linux all the cloud stuff.
+* AWS Certified Cloud Practitioner, Azure, GCP, Docker, windows, linux all the cloud stuff.
 * Critical thinking, decision-making and problem solving skills
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://cristiandavid.online)
+Find all of my socials and resume in my [website](https://cristianestupinan.online)
