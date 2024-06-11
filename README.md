@@ -1,15 +1,26 @@
-## Hello 👋
+## Hello, I'm Cristian! 👋
 
-My name is Cristian, I'm from Colombia and I'm an DevOps - SystemAdmin.
+🌍 **Location**: Colombia  
+🎓 **Profession**: DevOps - System Administrator
 
-* I work as a system administrator for windows and linux servers.
+As a dedicated System Administrator, I specialize in both Windows and Linux environments, striving to streamline and secure IT operations.
 
-## Skills
+## Skills 🛠️
 
-* Using Kubernetes.
-* AWS Certified Certified Solutions Architect - Associate, Azure, GCP, Terraform, Docker, Jenkins, Git, Github, SonarQube, OWASP Dependency-Check, windows, linux all the cloud stuff.
-* Critical thinking, decision-making and problem solving skills
+I'm skilled in orchestrating containerized applications with **Kubernetes** and adept in cloud environments, holding certifications such as:
 
-## Contact
+- **AWS Certified Solutions Architect - Associate**
+- Expertise in **Azure** and **Google Cloud Platform (GCP)**
+- Proficient in **Terraform**, **Docker**, **Jenkins**, **Git**, and **GitHub**
+- Advanced user of **SonarQube** and **OWASP Dependency-Check**
 
-Find all of my socials and resume in my [website](https://cristianestupinan.online)
+I apply **critical thinking**, **decision-making**, and **problem-solving skills** to tackle technical challenges and enhance system efficiency.
+
+## Contact 📬
+
+Connect with me through my [website](https://cristianestupinan.online) where you can find all my socials and detailed resume.
+
+---
+
+Feel free to reach out for collaborations or just a chat about tech innovations!
+
