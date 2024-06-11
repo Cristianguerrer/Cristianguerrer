@@ -1,26 +1,34 @@
-## Hello, I'm Cristian! 👋
+# Hola, ¡Soy Cristian! 👋
 
-🌍 **Location**: Colombia  
-🎓 **Profession**: SRE Engineer - Cloud Engineer - DevOps Engineer
+🌎 **Ubicación**: Colombia  
+🎓 **Profesión**: SRE Engineer | Cloud Engineer | DevOps Engineer
 
-As a dedicated System Administrator, I specialize in both Windows and Linux environments, striving to streamline and secure IT operations.
+Como un **Ingeniero Sistemas** dedicado y versátil, me especializo en entornos Windows y Linux, con un fuerte enfoque en optimizar y asegurar las operaciones de TI. Mi pasión está en la automatización y la mejora continua de los sistemas que soportan negocios escalables y seguros.
 
-## Skills 🛠️
+## Competencias Técnicas 🛠️
 
-I'm skilled in orchestrating containerized applications with **Kubernetes** and adept in cloud environments, holding certifications such as:
+Mis habilidades técnicas abarcan desde la orquestación de aplicaciones contenerizadas hasta la gestión experta de entornos en la nube, respaldadas por certificaciones y una profunda experiencia práctica:
 
-- **AWS Certified Solutions Architect - Associate**
-- Expertise in **AWS**, **Azure** and **Google Cloud Platform (GCP)**
-- Proficient in **k8s**, **ArgoCD**, **Terraform**, **Docker**, **Jenkins**, **Git**, **Azure DevOps**, and **GitHub**
-- Advanced user of **SonarQube** and **OWASP Dependency-Check**
+- **Certificado de AWS Solutions Architect - Associate**
+- Experto en **AWS**, **Azure** y **Google Cloud Platform (GCP)**
+- Proficiente en herramientas de DevOps como **Kubernetes (k8s)**, **ArgoCD**, **Terraform**, **Docker**, **Jenkins**, **Git**, **Azure DevOps**, y **GitHub**
+- Usuario avanzado de **SonarQube** y **OWASP Dependency-Check**
 
-I apply **critical thinking**, **decision-making**, and **problem-solving skills** to tackle technical challenges and enhance system efficiency.
+Utilizo un pensamiento crítico agudo, habilidades de toma de decisiones y resolución de problemas para enfrentar desafíos técnicos y mejorar la eficiencia del sistema.
 
-## Contact 📬
+## Áreas de Especialización 🔍
 
-Connect with me through my [website](https://cristianestupinan.online) where you can find all my socials and detailed resume.
+- **Orquestación de Contenedores y Automatización de Procesos**
+- **Diseño e Implementación de Arquitecturas de Alta Disponibilidad**
+- **Desarrollo e Implementación de Estrategias de Seguridad Robustas**
+- **Liderazgo en la Transformación Digital y la Optimización Continua**
+
+## 📬 Contáctame
+
+Conéctate conmigo a través de mi [sitio web](https://cristianestupinan.online), donde encontrarás todos mis redes sociales y mi currículum detallado.
 
 ---
 
-Feel free to reach out for collaborations or just a chat about tech innovations!
+No dudes en contactarme para colaboraciones o si deseas tener una conversación sobre innovaciones tecnológicas. ¡Estoy siempre abierto a explorar nuevas oportunidades y desafíos!
+
 
