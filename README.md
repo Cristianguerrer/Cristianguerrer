@@ -1,7 +1,7 @@
 ## Hello, I'm Cristian! 👋
 
 🌍 **Location**: Colombia  
-🎓 **Profession**: DevOps - System Administrator
+🎓 **Profession**: SRE Engineer - Cloud Engineer - DevOps Engineer
 
 As a dedicated System Administrator, I specialize in both Windows and Linux environments, striving to streamline and secure IT operations.
 
@@ -10,8 +10,8 @@ As a dedicated System Administrator, I specialize in both Windows and Linux envi
 I'm skilled in orchestrating containerized applications with **Kubernetes** and adept in cloud environments, holding certifications such as:
 
 - **AWS Certified Solutions Architect - Associate**
-- Expertise in **Azure** and **Google Cloud Platform (GCP)**
-- Proficient in **Terraform**, **Docker**, **Jenkins**, **Git**, and **GitHub**
+- Expertise in **AWS**, **Azure** and **Google Cloud Platform (GCP)**
+- Proficient in **k8s**, **ArgoCD**, **Terraform**, **Docker**, **Jenkins**, **Git**, **Azure DevOps**, and **GitHub**
 - Advanced user of **SonarQube** and **OWASP Dependency-Check**
 
 I apply **critical thinking**, **decision-making**, and **problem-solving skills** to tackle technical challenges and enhance system efficiency.
