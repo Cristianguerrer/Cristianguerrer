@@ -10,7 +10,7 @@ Como un **Ingeniero Sistemas** dedicado y versátil, me especializo en entornos 
 Mis habilidades técnicas abarcan desde la orquestación de aplicaciones contenerizadas hasta la gestión experta de entornos en la nube, respaldadas por certificaciones y una profunda experiencia práctica:
 
 - **Certificado de AWS Solutions Architect - Associate**
-- Certified Kubernetes Administrator (CKA)**
+- **Certified Kubernetes Administrator (CKA)**
 - Experto en **AWS**, **Azure** y **Google Cloud Platform (GCP)**
 - Proficiente en herramientas de DevOps como **Kubernetes (k8s)**, **ArgoCD**, **Terraform**, **Docker**, **Jenkins**, **Git**, **Azure DevOps**, y **GitHub**
 - Usuario avanzado de **SonarQube** y **OWASP Dependency-Check**
