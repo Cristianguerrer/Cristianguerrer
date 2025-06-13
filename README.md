@@ -11,6 +11,7 @@ Mis habilidades técnicas abarcan desde la orquestación de aplicaciones contene
 
 - **Certificado de AWS Solutions Architect - Associate**
 - **Certified Kubernetes Administrator (CKA)**
+- **Kubernetes and Cloud Native Associate (KCNA) **
 - Experto en **AWS**, **Azure** y **Google Cloud Platform (GCP)**
 - Proficiente en herramientas de DevOps como **Kubernetes (k8s)**, **ArgoCD**, **Terraform**, **Docker**, **Jenkins**, **Git**, **Azure DevOps**, y **GitHub**
 - Usuario avanzado de **SonarQube** y **OWASP Dependency-Check**
